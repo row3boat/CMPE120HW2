@@ -1,5 +1,4 @@
 # CMPE120HW2
-formatting :)
 
 - Source code:
   - Main.java: contains main method 
