@@ -9,7 +9,7 @@ formatting :)
   - testFile.txt: contains input text
 
 - Output files:
-  -outputCSV.csv: csv conversion
-  -outputJSON.json: json conversion
-  -outputXML.xml: xml conversion
+  - outputCSV.csv: csv conversion
+  - outputJSON.json: json conversion
+  - outputXML.xml: xml conversion
 
